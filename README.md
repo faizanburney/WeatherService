@@ -44,3 +44,8 @@ We can view all of user's data using the following get endpoint.
 ```
 http://localhost:8080/v1/weather
 ```
+
+To execute usit tests run:
+```
+./gradlew bootTestRun
+```
