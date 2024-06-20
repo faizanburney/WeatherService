@@ -1,13 +1,13 @@
-
-## Project setup
-
-Features assumed to be out of scope to save time:
+## Features assumed to be out of scope to save time:
 ```
 security
 data validations
 extensive testing (intergration and unit tests of classes).
 Api documention
 ```
+
+## Project setup
+
 What You Need
 ```
 Java 17 or later
